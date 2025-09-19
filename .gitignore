@@ -63,3 +63,31 @@ logs/
 # Temporary files
 *.tmp
 *.temp
+
+# Competition specific
+submission.csv
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Data files (keep structure, ignore large datasets)
+*.csv
+!requirements.txt
+
+# Data directories
+data/
+input/
+output/
+kaggle/
+
+# Model checkpoints
+models/
+checkpoints/
+*.model
+*.weights
+
+# Results and outputs
+results/
+outputs/
+predictions/
