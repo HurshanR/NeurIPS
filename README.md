@@ -46,7 +46,7 @@ This repository contains my solution for the [NeurIPS 2025 Open Polymer Predicti
 
 ## 📊 Results
 
-- **Final Rank**: Bronze Medal 🥉
+- **Final Rank**: Bronze Medal (197th of 2240 Teams)
 - **Methodology**: GroupKFold CV with 5-fold cross-validation
 - **Evaluation Metric**: Weighted Mean Absolute Error (wMAE)
 - **Key Strength**: Leak-proof validation ensuring reliable performance estimates
